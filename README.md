@@ -14,7 +14,7 @@ Most of the features are still under development and the project is more like a 
 The software was created just to have something to compete against commercial tools and Photoshop scripts and to stich together my sunset timelapse.
 The software can/will be developed further if there's demand for this kind of program.
 
-![alt text](https://github.com/petrinm/timeslicer/screen_0.png "Sceenshotty")
+![alt text](https://raw.githubusercontent.com/petrinm/timeslicer/master/screen_0.png "Sceenshotty")
 
 Feel free to comment and contribute!
 
